@@ -8,6 +8,11 @@ Song Han, Jeff Pool, John Tran, William J. Dally, "Learning both Weights and Con
 http://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network.pdf
 
 
+blog:
+
+https://cocon-corporation.com/cocontoco/pruning-neural-network/
+
+
 Without pruning:
 
 
