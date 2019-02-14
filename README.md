@@ -9,7 +9,6 @@ http://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-effic
 
 
 blog:
-
 https://cocon-corporation.com/cocontoco/pruning-neural-network/
 
 
